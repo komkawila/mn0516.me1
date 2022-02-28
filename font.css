@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../assets/fonts/kanit-v11-thai-regular.eot'); /* IE9 Compat Modes */
+    src: local('body'),
+        url('../assets/fonts/kanit-v11-thai-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('../assets/fonts/kanit-v11-thai-regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('../assets/fonts/kanit-v11-thai-regular.woff') format('woff'), /* Modern Browsers */
+        url('../assets/fonts/kanit-v11-thai-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+        url('../assets/fonts/kanit-v11-thai-regular.svg#Kanit') format('svg'); /* Legacy iOS */
+  }
+  body{
+        font-family: "Kanit";
+  }
+
+ 
